@@ -1,0 +1,38 @@
+---
+title: "Washington State Family Resource Center Landscape Analysis"
+author: "Kasey Langley, Janette Moreno, Catherine Roller White, Kerrie Schurr, and Garrison Kurtz"
+date: "3/21/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+```
+
+
+# Introduction
+
+The Washington State Department of Children, Youth, and Families (DCYF) contracted with Kasey Langley Consulting to conduct a **landscape analysis of Family Resource Centers (FRCs) in Washington State**.
+
+FRCs throughout Washington State are using various strategies to meet the unique needs of families and communities and a key asset in child abuse and neglect prevention. However, little is known about the collective impact, range of services offered by FRCs, and how extensively FRCs are available in communities across the state. This project builds on previous efforts to understand how FRCs operate in Washington State. Results of the landscape analysis will help DCYF better understand the approaches, availability, services, supports, stability, and capacity of FRCs across the state to better understand their potential role in statewide efforts for child abuse and neglect prevention.
+
+## Research Questions
+
+The landscape study addresses the following questions:
+
+1.  How many FRCs are operating in Washington?
+2.  What services, supports, resources and activities are offered through FRCs?
+3.  What kinds of fund sources are utilized to support activities of FRCs?
+4.  What approaches to staffing and administration have FRCs utilized over time?
+5.  What aspects of the Standards of Quality are being implemented, formally, or informally?
+6.  What are the successes and challenges for FRCs?
+7.  What are ongoing needs and sustainability strategies identified by FRCs?
+8.  How does FRCs see themselves as a part of their communities and statewide efforts to support strengthening families and avoiding child abuse and neglect?
+9.  Who are the target populations being served by the FRCs (age focus, geographic, cultural, other unique attribute)?
+10. To what extent does the FRC work with other community partners, including DCYF child welfare and are there specific strategies for serving child welfare-involved families?
+11. What types of FRC offerings are provided in a setting (brick and mortar) vs supported in-home, community partner settings, grants or other approaches?
+12. What kinds of data and data management approaches are used to document and measure work, outcomes, successes of the various approaches of FRCs?
